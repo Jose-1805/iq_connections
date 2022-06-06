@@ -1,0 +1,3952 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"subs",
+				"subscribePortfolio\tabc"
+			],
+			[
+				"balan",
+				"balance_id\tabc"
+			],
+			[
+				"instrument_type_",
+				"instrument_type_2\tabc"
+			],
+			[
+				"instrum",
+				"instrument_type\tabc"
+			],
+			[
+				"instrumen",
+				"instrument_type\tabc"
+			],
+			[
+				"demo",
+				"demoBalanceid\tabc"
+			],
+			[
+				"JSON",
+				"JSON.stringify\tabc"
+			],
+			[
+				"Trader",
+				"TraderRecipientPanel\t(TraderRecipientPanel.js)"
+			],
+			[
+				"dis",
+				"disconnected\t(TraderConnection.js)"
+			],
+			[
+				"conn",
+				"connect\tabc"
+			],
+			[
+				"disc",
+				"disconnected\tabc"
+			],
+			[
+				"conne",
+				"connect"
+			],
+			[
+				"counter",
+				"counterConnections\tabc"
+			],
+			[
+				"setCOu",
+				"setCounterConnections\tabc"
+			],
+			[
+				"my",
+				"myMapObject\t(useWebsocketIqOption.js)"
+			],
+			[
+				"para",
+				"params\tabc"
+			],
+			[
+				"setSta",
+				"setStateConnectionManager\tabc"
+			],
+			[
+				"binary",
+				"binaryActives\tabc"
+			],
+			[
+				"le",
+				"length\t(useBinaryOptions.js)"
+			],
+			[
+				"bina",
+				"binaryActives\tabc"
+			],
+			[
+				"tur",
+				"turboActives\tabc"
+			],
+			[
+				"bin",
+				"binaryActives\tabc"
+			],
+			[
+				"disco",
+				"disconnectIqOption\tabc"
+			],
+			[
+				"sty",
+				"style\t Style CSS"
+			],
+			[
+				"load",
+				"loading\tabc"
+			],
+			[
+				"loa",
+				"loading\t(IqOptionManager.js)"
+			],
+			[
+				"onsu",
+				"onsubmit\t: EventHandler Document"
+			],
+			[
+				"preve",
+				"preventDefault\t(): void Event"
+			],
+			[
+				"clas",
+				"classes"
+			],
+			[
+				"Iq",
+				"IqOptionManager\tabc"
+			],
+			[
+				"IqOP",
+				"IqOptionManager\t(IqOptionManager.js)"
+			],
+			[
+				"IqO",
+				"IqOptionConnections\t(IqOptionConnections.js)"
+			],
+			[
+				"send",
+				"sender\tabc"
+			],
+			[
+				"setTr",
+				"setTraderRecipient\tabc"
+			],
+			[
+				"setTrade",
+				"setTraderSender\tabc"
+			],
+			[
+				"emai",
+				"emailConnectionManager\tabc"
+			],
+			[
+				"connectio",
+				"connectionManager\tabc"
+			],
+			[
+				"Text",
+				"TextField\t(ConnectionControlPanel.js)"
+			],
+			[
+				"iq_",
+				"iq_option_broker_id\t(params.php)"
+			],
+			[
+				"use",
+				"user\tabc"
+			],
+			[
+				"Auth",
+				"Auth::user\tGet the currently authenticated user."
+			],
+			[
+				"getSe",
+				"getServerPath\t(routes.js)"
+			],
+			[
+				"io_",
+				"iq_option_broker_id\t(params.php)"
+			],
+			[
+				"curr",
+				"currency_id\tabc"
+			],
+			[
+				"fun",
+				"fun\tfunction …"
+			],
+			[
+				"requ",
+				"require\t(app.js)"
+			],
+			[
+				"dataTr",
+				"dataTraderMood\tabc"
+			],
+			[
+				"tubr",
+				"turbo-option\tabc"
+			],
+			[
+				"traderM",
+				"traderMoodBinary\t(UserConnection.js)"
+			],
+			[
+				"trader",
+				"traderMoodBinary\tabc"
+			],
+			[
+				"instr",
+				"instrumentType\tabc"
+			],
+			[
+				"turb",
+				"turbo-option\t(useWebsocketIqOption.js)"
+			],
+			[
+				"turbo",
+				"turbo-option\tabc"
+			],
+			[
+				"traderMoodActivesB",
+				"traderMoodActivesBinary"
+			],
+			[
+				"setTraderM",
+				"setTraderMoodActivesBinary\tabc"
+			],
+			[
+				"traderMoodActivesT",
+				"traderMoodActivesTurboRef\tabc"
+			],
+			[
+				"setTraderMoodActives",
+				"setTraderMoodActivesBinary\tabc"
+			],
+			[
+				"traderMoodActivesBi",
+				"traderMoodActivesBinaryRef\tabc"
+			],
+			[
+				"currentT",
+				"currentTurboActives\tabc"
+			],
+			[
+				"log",
+				"console_log"
+			],
+			[
+				"ass",
+				"assign\t(useWebsocketIqOption.js)"
+			],
+			[
+				"parse",
+				"parseFloat\t( s: string ): double Global"
+			],
+			[
+				"setAc",
+				"setTradeMoodActives\tabc"
+			],
+			[
+				"des",
+				"description-test\tRegExp"
+			],
+			[
+				"jsonT",
+				"jsonTextSend\tabc"
+			],
+			[
+				"json",
+				"jsonTextSend\tabc"
+			],
+			[
+				"Tex",
+				"TextField\tabc"
+			],
+			[
+				"connec",
+				"connectionState\tabc"
+			],
+			[
+				"connect",
+				"connectionStates\t(useWebsocketIqOption.js)"
+			],
+			[
+				"disconn",
+				"disconnecting\tabc"
+			],
+			[
+				"con",
+				"connecting〔variable〕"
+			],
+			[
+				"setConn",
+				"setConnectionState\tabc"
+			],
+			[
+				"discc",
+				"disconnected\tabc"
+			],
+			[
+				"test",
+				"testForex\tabc"
+			],
+			[
+				"instrume",
+				"instrument_id\tabc"
+			],
+			[
+				"text",
+				"textSend\tabc"
+			],
+			[
+				"onC",
+				"onClick\t(UserControlPanel.js)"
+			],
+			[
+				"broker",
+				"brokers\tabc"
+			],
+			[
+				"webso",
+				"websocketUser\tabc"
+			],
+			[
+				"webs",
+				"websocketUser\tabc"
+			],
+			[
+				"call",
+				"callback\tabc"
+			],
+			[
+				"LO",
+				"Log::log\tLog a message to the logs."
+			],
+			[
+				"ou",
+				"output\tabc"
+			],
+			[
+				"IqOp",
+				"IqOptionConnectionTask\t(IqOptionConnectionTask.php)"
+			],
+			[
+				"us",
+				"user\tabc"
+			],
+			[
+				"user",
+				"users\tabc"
+			],
+			[
+				"bro",
+				"broker\tabc"
+			],
+			[
+				"iq",
+				"iqOption\t(Broker.php)"
+			],
+			[
+				"Au",
+				"Auth\tabc"
+			],
+			[
+				"pro",
+				"profile\tabc"
+			],
+			[
+				"belong",
+				"belongsToMany〔function〕"
+			],
+			[
+				"brok",
+				"brokers\t(Broker.php)"
+			],
+			[
+				"res",
+				"result\tabc"
+			],
+			[
+				"uns",
+				"unset〔keyword〕"
+			],
+			[
+				"broker_",
+				"broker_url_auth\t(params.php)"
+			],
+			[
+				"produ",
+				"product\t(Header.js)"
+			],
+			[
+				"prod",
+				"product_line\tabc"
+			],
+			[
+				"product_l",
+				"product_lines\tabc"
+			],
+			[
+				"full",
+				"fullWidth\tabc"
+			],
+			[
+				"useMe",
+				"useMediaQuery\t(Contact.js)"
+			],
+			[
+				"He",
+				"HeaderModal.js"
+			],
+			[
+				"Header",
+				"HeaderModal\tabc"
+			],
+			[
+				"como",
+				"component\t(Services.js)"
+			],
+			[
+				"var",
+				"variant\t(Services.js)"
+			],
+			[
+				"ali",
+				"align\t(Services.js)"
+			],
+			[
+				"sec",
+				"section\tabc"
+			],
+			[
+				"act",
+				"action\tabc"
+			],
+			[
+				"navigateToS",
+				"navigateToSection\tabc"
+			],
+			[
+				"pos",
+				"position\tabc"
+			],
+			[
+				"A",
+				"AnimateInViewport.js"
+			],
+			[
+				"border-bo",
+				"border-bottom-right-radius\t(ProductsServices.js)"
+			],
+			[
+				"hei",
+				"height\t(AppHooks.js)"
+			],
+			[
+				"abs",
+				"absolute\t(AppHooks.js)"
+			],
+			[
+				"useCo",
+				"useColorClasses\tabc"
+			],
+			[
+				"bg",
+				"bgPseudoClassName\tabc"
+			],
+			[
+				"z",
+				"zIndex\t(Home.js)"
+			],
+			[
+				"class",
+				"className\tabc"
+			],
+			[
+				"ele",
+				"elevation\t(ProductsServices.js)"
+			],
+			[
+				"Ima",
+				"ImageSelectable\t(ProductsServices.js)"
+			],
+			[
+				"Im",
+				"ItemSelectable.js"
+			],
+			[
+				"com",
+				"component\tabc"
+			],
+			[
+				"font-x",
+				"font-xx-large\t(helpers.css)"
+			],
+			[
+				"alig",
+				"align\t(Home.js)"
+			],
+			[
+				"H",
+				"helpers/"
+			],
+			[
+				"productP",
+				"productPromotion\t(AppHooks.js)"
+			],
+			[
+				"bo",
+				"bottom\tabc"
+			],
+			[
+				"new",
+				"new_value\tabc"
+			],
+			[
+				"pars",
+				"parseFloat\t( s: string ): double Global"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/js/components/connectionControlPanel/contents/iq_option/IqOptionManager.js",
+			"settings":
+			{
+				"buffer_size": 2865,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/js/components/connectionControlPanel/__TraderMoodData.js",
+			"settings":
+			{
+				"buffer_size": 2607,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/js/components/connectionControlPanel/contents/iq_option/websocket_data/Binary.js",
+			"settings":
+			{
+				"buffer_size": 20897,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/js/components/connectionControlPanel/contents/iq_option/websocket_data/Subscriptions.js",
+			"settings":
+			{
+				"buffer_size": 3748,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/js/components/connectionControlPanel/contents/iq_option/websocket_data/User.js",
+			"settings":
+			{
+				"buffer_size": 5565,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/js/components/connectionControlPanel/contents/iq_option/Connections.js",
+			"settings":
+			{
+				"buffer_size": 1241,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "IqOptionConnections.js"
+			}
+		},
+		{
+			"file": "resources/js/components/connectionControlPanel/contents/iq_option/TraderSenderPanel.js",
+			"settings":
+			{
+				"buffer_size": 2391,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1006,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "webpack.mix.js",
+			"settings":
+			{
+				"buffer_size": 551,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/js/components/connectionControlPanel/contents/iq_option/TraderRecipientPanel.js",
+			"settings":
+			{
+				"buffer_size": 2288,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/js/components/connectionControlPanel/contents/iq_option/TraderConnection.js",
+			"settings":
+			{
+				"buffer_size": 1613,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/js/config/params.js",
+			"settings":
+			{
+				"buffer_size": 231,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/js/components/connectionControlPanel/contents/iq_option/ConnectionManagerPanel.js",
+			"settings":
+			{
+				"buffer_size": 2562,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "ConnectionManagerPanel.js"
+			}
+		},
+		{
+			"file": "resources/js/components/helpers/http/hooks/useWebsocketIqOption.js",
+			"settings":
+			{
+				"buffer_size": 6667,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "useWebsocketIqOption.js"
+			}
+		},
+		{
+			"file": "config/params.php",
+			"settings":
+			{
+				"buffer_size": 311,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "params.php"
+			}
+		},
+		{
+			"file": "resources/js/config/routes.js",
+			"settings":
+			{
+				"buffer_size": 249,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "routes.js"
+			}
+		},
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 774,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 1085,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "storage/logs/laravel.log",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"find",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"fin",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"fi",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"fun",
+				"Code Folding: Unfold All"
+			],
+			[
+				"f",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"ph",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"pv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"PRV: ",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"compa",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 232.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jose1805/ProjectCode/IqConnections",
+		"/home/jose1805/ProjectCode/IqConnections/resources",
+		"/home/jose1805/ProjectCode/IqConnections/resources/js",
+		"/home/jose1805/ProjectCode/IqConnections/resources/js/components",
+		"/home/jose1805/ProjectCode/IqConnections/resources/js/components/connectionControlPanel",
+		"/home/jose1805/ProjectCode/IqConnections/resources/js/components/connectionControlPanel/contents",
+		"/home/jose1805/ProjectCode/IqConnections/resources/js/components/connectionControlPanel/contents/iq_option",
+		"/home/jose1805/ProjectCode/IqConnections/resources/js/components/connectionControlPanel/contents/iq_option/websocket_data",
+		"/home/jose1805/ProjectCode/IqConnections/resources/js/components/helpers"
+	],
+	"file_history":
+	[
+		"/home/jose1805/ProjectCode/IqConnections/resources/js/components/helpers/http/hooks/iqOption/useBinaryOptions.js",
+		"/home/jose1805/ProjectCode/IqConnections/resources/js/components/helpers/Helpers.js",
+		"/home/jose1805/ProjectCode/IqConnections/resources/js/components/connectionControlPanel/contents/iq_option/websocket_data/Binary.js",
+		"/home/jose1805/ProjectCode/IqConnections/resources/js/components/connectionControlPanel/contents/iq_option/websocket_data/Subscriptions.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/components/connectionControlPanel/contents/iq_option/websocket_data/User.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/components/connectionControlPanel/contents/iq_option/websocket_data/Digital.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/components/connectionControlPanel/contents/iq_option/websocket_data/Binary.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/components/connectionControlPanel/contents/iq_option/websocket_data/BinaryTurbo.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/components/connectionControlPanel/contents/iq_option/websocket_data/__PasteToCompare.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/components/connectionControlPanel/contents/iq_option/websocket_data/Forex.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/config/IqOptionWebsocketData.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/components/connectionControlPanel/contents/iq_option/websocket_data/Subscriptions.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/components/connectionControlPanel/contents/iq_option/websocket_data/Queries.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/components/connectionControlPanel/__TraderMoodData.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/config/params.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/components/connectionControlPanel/contents/iq_option/untitled",
+		"/home/jose1805/Project Code/IqConnections/resources/js/components/userControlPanel/UserConnection.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/components/connectionControlPanel/ConnectionControlPanel.js",
+		"/home/jose1805/Project Code/IqConnections/app/Models/Broker.php",
+		"/home/jose1805/Project Code/IqConnections/app/Models/User.php",
+		"/home/jose1805/Project Code/IqConnections/resources/js/routes/SwitchRoutes.js",
+		"/home/jose1805/Project Code/IqConnections/app/Http/Controllers/UserController.php",
+		"/home/jose1805/Project Code/IqConnections/resources/js/components/helpers/components/Loading.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/components/connectionControlPanel/contents/IqOptionManager.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/components/helpers/http/hooks/useHttpRequest.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/components/userControlPanel/ConnectionControlPanel.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/app.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/components/helpers/http/HttpRequest.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/components/App.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/redux/store.js",
+		"/home/jose1805/Project Code/IqConnections/package.json",
+		"/home/jose1805/Project Code/IqConnections/resources/js/components/UserControlPanel/UserControlPanel.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/routes/RouteTypes.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/redux/app/actions.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/redux/app/reducer.js",
+		"/home/jose1805/Project Code/IqConnections/resources/js/routes/DynamicLoader.js",
+		"/home/jose1805/Project Code/IqConnections/resources/views/app.blade.php",
+		"/home/jose1805/Project Code/IqConnections/routes/web.php",
+		"/home/jose1805/Project Code/IqConnections/resources/js/components/Example.js",
+		"/home/jose1805/Project Code/IqConnections/composer.json",
+		"/home/jose1805/Project Code/IqConnections/app/Task/IqOptionConnectionTask.php",
+		"/home/jose1805/Project Code/IqConnections/vendor/textalk/websocket/lib/Client.php",
+		"/home/jose1805/Project Code/IqConnections/vendor/textalk/websocket/lib/Base.php",
+		"/home/jose1805/Project Code/IqConnections/app/Models/Currency.php",
+		"/home/jose1805/Project Code/IqConnections/config/app.php",
+		"/home/jose1805/Project Code/IqConnections/bootstrap/app.php",
+		"/home/jose1805/Project Code/IqConnections/app/Helpers/Helpers.php",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/home/Services.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/orders/Orders.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/user_account/UserAccount.js",
+		"/home/jose1805/Project Code/Batericars/app/Models/Order.php",
+		"/home/jose1805/Project Code/Batericars/app/Http/Controllers/OrderController.php",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/header/Header.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/home/Home.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/carousel_contents/presentations/ProductPrice.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/helpers/AppHooks.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/store/store_components/ProductTabs.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/home/Brands.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/home/ProductsServices.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/helpers/AnimateInViewport.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/home/StrandedBattery.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/carousel_contents/promotions/ItemPromotion.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/carousel_contents/home/TaxiBattery.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/footer/Footer.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/home/Contact.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/dashboard/GeneralManagement.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/helpers/Icon.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/helpers/ImageSelectable.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/helpers/ItemSelectable.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/app.js",
+		"/home/jose1805/Project Code/Batericars/public/js/app.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/helpers/Statistics.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/carousel_contents/presentations/taxi_battery/Three.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/carousel_contents/presentations/taxi_battery/Two.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/carousel_contents/presentations/taxi_battery/One.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/helpers/carousel/useCarousel.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/helpers/CircularProgressWithLabel.js",
+		"/home/jose1805/Project Code/Batericars/app/Http/Controllers/ProductController.php",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/presentations/presentations/TaxiBattery.js",
+		"/home/jose1805/Project Code/Batericars/storage/logs/laravel.log",
+		"/home/jose1805/Project Code/Batericars/app/Console/Kernel.php",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/carousel_contents/presentations/taxi_battery/Four.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/helpers/form_elements/components/Btn.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/store/ProductDetail.js",
+		"/home/jose1805/Dropbox/Proyectos/Software/Batericars/Tareas 26 Marzo 2021.txt",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/home/Promotions.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/carousel_contents/presentations/premium_battery/One.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/presentations/Presentation.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/helpers/carousel/Carousel.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/home/HomeCarousel.js",
+		"/home/jose1805/Project Code/Batericars/app/Console/Commands/SyncFinaval.php",
+		"/home/jose1805/Project Code/Batericars/app/Models/PaymentReceipt.php",
+		"/home/jose1805/Project Code/Batericars/app/Models/Credit.php",
+		"/home/jose1805/Project Code/Batericars/app/Http/Controllers/CreditController.php",
+		"/home/jose1805/Project Code/Batericars/app/Helpers/Helpers.php",
+		"/home/jose1805/Project Code/Batericars/app/Console/Commands/SyncCredits.php",
+		"/home/jose1805/Project Code/Batericars/app/Http/Controllers/ClientController.php",
+		"/home/jose1805/Project Code/Batericars/.gitignore",
+		"/home/jose1805/Project Code/Batericars/.env",
+		"/home/jose1805/Project Code/Batericars/app/Models/Magister/Vendedor.php",
+		"/home/jose1805/Project Code/Batericars/database/queries/permissions_magister.sql",
+		"/home/jose1805/Project Code/Batericars/app/Models/Magister/ArticuloPrecio.php",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/store/Store.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/carousel_contents/presentations/premium_battery/Three.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/carousel_contents/presentations/premium_battery/Two.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/presentations/presentations/PremiumBattery.js",
+		"/home/jose1805/Project Code/Batericars/app/Http/Requests/ChangePasswordRequest.php",
+		"/home/jose1805/Project Code/Batericars/app/Imports/ClientsImport.php",
+		"/home/jose1805/Project Code/Batericars/app/Models/Person.php",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/menu/menu.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/App.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/helpers/carousel/useNavigationCarousel.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/carousel_contents/home/BatteryBestWarranty.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/helpers/carousel/useCarousel_.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/helpers/carousel/Carousel_.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/helpers/form_elements/components/Input.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/helpers/carousel/useShowItemCarousel.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/carousel_contents/presentations/premium_battery/One_.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/carousel_contents/presentations/premium_battery/Two_.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/clients/FormClient.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/auth/Login.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/redux/app/actions.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/redux/app/reducer.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/auth/ChangePassword.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/clients/StoreClientFree.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/store/store_components/Filter.js",
+		"/home/jose1805/Project Code/Batericars/resources/js/components/store/shopping_cart/ShoppingCart.js",
+		"/home/jose1805/Project Code/Batericars/app/Http/Controllers/UserController.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 161.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"active_id",
+			"index",
+			"}",
+			"ALZA",
+			"//DATOS DE LLEGADA DE OPERACIÓN",
+			"ALZA",
+			"//DATOS DE LLEGADA",
+			"ALZA",
+			"DATOS DE LLEGADA",
+			"OPCIÓN",
+			"subscriptions",
+			"subscribePortfolio(\"for",
+			"demoBalanceid",
+			"turbo",
+			"forex",
+			"setDemoBalanceId",
+			"demoBalanceid",
+			"setDemoBalanceId",
+			"forex",
+			"traderSender",
+			"TraderSenderPanel",
+			"stateConnectionManager",
+			"nnectedTraders",
+			"connectedTraders",
+			"Loading",
+			"Connect",
+			"\n\t\t\tsetLoading(true);",
+			"connectionManager",
+			"ConnectionManagerPanel",
+			"4",
+			"ounterConnections",
+			"ctTrader",
+			"TraderSenderPanel",
+			"ConnectionManagerPanel",
+			"connectionStateNames",
+			"connectionStates",
+			"connectionStateNames",
+			"connectionStates",
+			"const",
+			"TraderSender",
+			"subscribeCandles",
+			"console.log(",
+			"initData",
+			"Ref",
+			"set",
+			"setTradeMood",
+			"setActives",
+			"useEffect",
+			"ws",
+			"onClick={",
+			"React.Fragment",
+			"stopIqOptionConnection",
+			"if(",
+			"loadConnectionManager",
+			"IqOptionConnections",
+			"TextField",
+			"emailConnectionManagel",
+			"emailConnectionManage",
+			"emailConnectionManager",
+			"emailConnectionManagerEmail",
+			"Typography",
+			"Grid",
+			"Typography",
+			"httpRequest",
+			"TextField",
+			"Sender",
+			"email",
+			"UserControlPanel",
+			"candle-generated",
+			"TurboActives",
+			"console.log(dataActive)",
+			"const dataActive",
+			"data",
+			"traderMoodTurbo",
+			"traderMoodBinary",
+			"traderMoodTurbo",
+			"getInfoTradeMood",
+			"traderMoodBinary",
+			"instrumentType",
+			"startTraderMood",
+			"send",
+			"setActives",
+			"tradeMoodActives",
+			"tradeMoo",
+			"traderMoodActivesTurbo",
+			"setTradeMoodActives",
+			"traderMoodActivesBinaryRef",
+			"tradeMoodActivesRef",
+			"data.msg",
+			"tradeMoodActives",
+			"setTurboActives",
+			"traderMoodActivesTurboRef",
+			"currentTurboActives",
+			"newTurboActives",
+			"TurboRef",
+			"Turbo",
+			"raderr",
+			"rader",
+			"rade",
+			"CuurentTurboActives",
+			"setTradeMoodActives",
+			"urboActives",
+			"setTurboActives",
+			"GBP",
+			"JPY",
+			"0.",
+			"0.8",
+			"USD",
+			"USDJPY",
+			"USD",
+			"setTurboActives",
+			"<Typography",
+			"Typography",
+			"setTradeMoodActives",
+			"tradeMoodActivesRef",
+			"tradeMoodActives",
+			"send",
+			"Typography",
+			"tradeMoodActives",
+			"dataSendTrademood",
+			"dataSend",
+			"setTurboActives",
+			"actives",
+			"urboActives",
+			"demoBalanceid",
+			"digital",
+			"feature",
+			"setSendJsonText"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/js/components/connectionControlPanel/contents/iq_option/IqOptionManager.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2865,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2173,
+								2173
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2196,
+										2197
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2173,
+										2174
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 99.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/js/components/connectionControlPanel/__TraderMoodData.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/js/components/connectionControlPanel/contents/iq_option/websocket_data/Binary.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20897,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/js/components/connectionControlPanel/contents/iq_option/websocket_data/Subscriptions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								192,
+								192
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										191,
+										192
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										26,
+										27
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources/js/components/connectionControlPanel/contents/iq_option/websocket_data/User.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5565,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resources/js/components/connectionControlPanel/contents/iq_option/Connections.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1079,
+								1079
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "IqOptionConnections.js",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1207,
+										1208
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										431,
+										432
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 528.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "resources/js/components/connectionControlPanel/contents/iq_option/TraderSenderPanel.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2391,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2283,
+								2283
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2295,
+										2296
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1838,
+										1839
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 1.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								273,
+								244
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										249,
+										250
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										244,
+										245
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Theme - Alpenglow/Prefs/Langs/npm JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "webpack.mix.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								496,
+								496
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "resources/js/components/connectionControlPanel/contents/iq_option/TraderRecipientPanel.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								260,
+								260
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										285,
+										286
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										243,
+										244
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1320.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "resources/js/components/connectionControlPanel/contents/iq_option/TraderConnection.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1613,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								343,
+								343
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										343,
+										344
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										245,
+										246
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 243.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "resources/js/config/params.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										230,
+										231
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										15,
+										16
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "resources/js/components/connectionControlPanel/contents/iq_option/ConnectionManagerPanel.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2562,
+								2562
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "ConnectionManagerPanel.js",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 11.0,
+						"translation.y": 1122.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "resources/js/components/helpers/http/hooks/useWebsocketIqOption.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6667,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5858,
+								5858
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "useWebsocketIqOption.js",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										5908,
+										5909
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										5646,
+										5647
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1375.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 14,
+					"file": "config/params.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								302,
+								302
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "params.php",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										302,
+										303
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										282,
+										283
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 12.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "resources/js/config/routes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "routes.js",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										246,
+										247
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										23,
+										24
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								645,
+								645
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										653,
+										654
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										616,
+										617
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": ".env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1085,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1084,
+								1084
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 858.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "storage/logs/laravel.log",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.95,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 253.0
+	},
+	"pinned_build_system": "",
+	"project": "IqConnections.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".en",
+				".env"
+			],
+			[
+				"UpdatePro",
+				"app/Http/Requests/UpdateProductRequest.php"
+			],
+			[
+				"ProductC",
+				"app/Http/Controllers/ProductController.php"
+			],
+			[
+				"Produ",
+				"app/Http/Controllers/ProductLineController.php"
+			],
+			[
+				"OrderC",
+				"app/Http/Controllers/OrderController.php"
+			],
+			[
+				"app.js",
+				"resources/js/app.js"
+			],
+			[
+				"ProductCo",
+				"app/Http/Controllers/ProductController.php"
+			],
+			[
+				".log",
+				"storage/logs/laravel.log"
+			],
+			[
+				"Icon.js",
+				"resources/js/components/helpers/Icon.js"
+			],
+			[
+				"",
+				".env"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"CreditC",
+				"app/Http/Controllers/CreditController.php"
+			],
+			[
+				"ClientC",
+				"app/Http/Controllers/ClientController.php"
+			],
+			[
+				"Perso",
+				"app/Models/Person.php"
+			],
+			[
+				"Input.js",
+				"resources/js/components/helpers/form_elements/components/Input.js"
+			],
+			[
+				"UserC",
+				"app/Http/Controllers/UserController.php"
+			],
+			[
+				"StoreCl",
+				"app/Http/Requests/StoreClientRequest.php"
+			],
+			[
+				"Icon",
+				"resources/js/components/helpers/Icon.js"
+			],
+			[
+				"VehicleS",
+				"resources/js/components/helpers/vehicle_selector/VehicleSelector.js"
+			],
+			[
+				"Btn",
+				"resources/js/components/helpers/form_elements/components/Btn.js"
+			],
+			[
+				"AppH",
+				"resources/js/components/helpers/AppHooks.js"
+			],
+			[
+				"Orderc",
+				"app/Http/Controllers/OrderController.php"
+			],
+			[
+				".LOG",
+				"storage/logs/laravel.log"
+			],
+			[
+				"Produc",
+				"app/Models/Product.php"
+			],
+			[
+				"AutocompleteM",
+				"resources/js/components/products/AutocompleteMagisterProducts.js"
+			],
+			[
+				"UpdateAddressClientRequest",
+				"app/Http/Requests/UpdateAddressClientRequest.php"
+			],
+			[
+				"PromotionCo",
+				"app/Http/Controllers/PromotionController.php"
+			],
+			[
+				"Age",
+				"app/Models/Agency.php"
+			],
+			[
+				"perso",
+				"app/Models/Person.php"
+			],
+			[
+				"app.p",
+				"config/app.php"
+			],
+			[
+				"Client",
+				"app/Models/Client.php"
+			],
+			[
+				"CLie",
+				"app/Models/Magister/Cliente.php"
+			],
+			[
+				"Agency.",
+				"app/Models/Agency.php"
+			],
+			[
+				"Product.p",
+				"app/Models/Product.php"
+			],
+			[
+				"AgencyC",
+				"app/Http/Controllers/AgencyController.php"
+			],
+			[
+				"RoleC",
+				"app/Http/Controllers/RoleController.php"
+			],
+			[
+				"btn",
+				"resources/js/components/helpers/form_elements/components/Btn.js"
+			],
+			[
+				"Distri",
+				"app/Http/Controllers/DistributionController.php"
+			],
+			[
+				"Product",
+				"app/Http/Controllers/ProductController.php"
+			],
+			[
+				"City",
+				"app/Models/City.php"
+			],
+			[
+				"Agen",
+				"app/Http/Controllers/AgencyController.php"
+			],
+			[
+				"hel",
+				"resources/sass/helpers.css"
+			],
+			[
+				"Proc",
+				"vendor/symfony/process/Process.php"
+			],
+			[
+				"Proce",
+				"vendor/symfony/process/Process.php"
+			],
+			[
+				".e",
+				".env"
+			],
+			[
+				"app.b",
+				"resources/views/app.blade.php"
+			],
+			[
+				"App.js",
+				"resources/js/components/App.js"
+			],
+			[
+				".",
+				".env"
+			],
+			[
+				"Person.",
+				"app/Models/Person.php"
+			],
+			[
+				"userC",
+				"app/Http/Controllers/UserController.php"
+			],
+			[
+				"User.",
+				"app/Models/User.php"
+			],
+			[
+				"Promo",
+				"app/Http/Controllers/PromotionController.php"
+			],
+			[
+				"ProductController",
+				"app/Http/Controllers/ProductController.php"
+			],
+			[
+				"Btn.",
+				"resources/js/components/helpers/form_elements/components/Btn.js"
+			],
+			[
+				"icon.js",
+				"resources/js/components/helpers/Icon.js"
+			],
+			[
+				"app.php",
+				"config/app.php"
+			],
+			[
+				"StockUpdates.",
+				"resources/js/components/stock_updates/StockUpdates.js"
+			],
+			[
+				"Notebook.js",
+				"resources/js/components/notebook/Notebook.js"
+			],
+			[
+				"Distributions",
+				"resources/js/components/distributions/Distributions.js"
+			],
+			[
+				"Distributions.",
+				"public/js/fragments/distributions.js"
+			],
+			[
+				"Distrib",
+				"public/js/fragments/distributions.js"
+			],
+			[
+				"OrderPr",
+				"app/Models/OrderPriceHistory.php"
+			],
+			[
+				"UpdatePromo",
+				"app/Http/Requests/UpdatePromotionRequest.php"
+			],
+			[
+				"StorePromp",
+				"app/Http/Requests/StorePromotionRequest.php"
+			],
+			[
+				"FormProm",
+				"resources/js/components/promotions/FormPromotion.js"
+			],
+			[
+				"Promotions.js",
+				"resources/js/components/promotions/Promotions.js"
+			],
+			[
+				"UpdateProm",
+				"resources/js/components/promotions/UpdatePromotion.js"
+			],
+			[
+				"Promotion",
+				"app/Models/Promotion.php"
+			],
+			[
+				"web.p",
+				"routes/web.php"
+			],
+			[
+				"SwitchR",
+				"resources/js/routes/SwitchRoutes.js"
+			],
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"Home.js",
+				"resources/js/components/home/Home.js"
+			],
+			[
+				"Cred",
+				"app/Models/Credit.php"
+			],
+			[
+				"PaymenRe",
+				"app/Models/PaymentReceipt.php"
+			],
+			[
+				"cred",
+				"app/Http/Controllers/CreditController.php"
+			],
+			[
+				"Clie",
+				"app/Models/Client.php"
+			],
+			[
+				"ContactH",
+				"app/Http/Controllers/ContactHistoryController.php"
+			],
+			[
+				"user.",
+				"app/Models/User.php"
+			],
+			[
+				"userc",
+				"app/Http/Controllers/UserController.php"
+			],
+			[
+				"Notifica",
+				"app/Http/Controllers/NotificationController.php"
+			],
+			[
+				"chan",
+				"routes/channels.php"
+			],
+			[
+				"CLientC",
+				"app/Http/Controllers/ClientController.php"
+			],
+			[
+				"USerC",
+				"app/Http/Controllers/UserController.php"
+			],
+			[
+				"we",
+				"routes/web.php"
+			],
+			[
+				"clientC",
+				"app/Http/Controllers/ClientController.php"
+			],
+			[
+				"Use",
+				"app/Models/User.php"
+			],
+			[
+				"use",
+				"app/Models/User.php"
+			],
+			[
+				"user",
+				"node_modules/react-redux/es/hooks/useReduxContext.js"
+			],
+			[
+				"api",
+				"routes/api.php"
+			],
+			[
+				"AuthServiceProvider",
+				"app/Providers/AuthServiceProvider.php"
+			],
+			[
+				"fonts",
+				"resources/sass/fonts.css"
+			],
+			[
+				"Commi",
+				"app/Http/Controllers/API/v1/CommissionController.php"
+			],
+			[
+				"produ",
+				"app/Http/Controllers/API/v1/ProductController.php"
+			],
+			[
+				"semantic.min.css",
+				"node_modules/semantic-ui-css/semantic.min.css"
+			],
+			[
+				"Prod",
+				"app/Http/Controllers/API/v1/ProductController.php"
+			],
+			[
+				"pros",
+				"app/Models/ProductSetting.php"
+			],
+			[
+				"cha",
+				"routes/channels.php"
+			],
+			[
+				"chann",
+				"routes/channels.php"
+			],
+			[
+				"channe",
+				"routes/channels.php"
+			],
+			[
+				"channel",
+				"routes/channels.php"
+			],
+			[
+				"Menu.js",
+				"resources/js/app/components/menu/Menu.js"
+			],
+			[
+				"Register.js",
+				"resources/js/app/components/auth/register/Register.js"
+			],
+			[
+				"helper",
+				"resources/sass/helpers.css"
+			],
+			[
+				"LicenseC",
+				"app/Http/Controllers/API/v1/LicenseController.php"
+			],
+			[
+				"SyncU",
+				"resources/js/app/components/helpers/components/SyncUser.js"
+			],
+			[
+				"params.",
+				"resources/js/app/config/params.js"
+			],
+			[
+				"Trans",
+				"app/Models/Transfer.php"
+			],
+			[
+				"helpe",
+				"resources/sass/helpers.css"
+			],
+			[
+				"Commissi",
+				"app/Http/Controllers/API/v1/CommissionController.php"
+			],
+			[
+				"commision.js",
+				"resources/js/app/i18n/translations/en/commission.js"
+			],
+			[
+				"Evluate",
+				"app/Http/Middleware/EvaluateHeaders.php"
+			],
+			[
+				"buy",
+				"resources/js/app/components/product/Buy.js"
+			],
+			[
+				"produc",
+				"resources/js/app/i18n/translations/es/product.js"
+			],
+			[
+				"product.js",
+				"resources/js/app/i18n/translations/en/product.js"
+			],
+			[
+				"perf",
+				"resources/js/app/components/performance/Performance.js"
+			],
+			[
+				"license.js",
+				"resources/js/app/components/license/License.js"
+			],
+			[
+				".ENV",
+				".env"
+			],
+			[
+				"CHAN",
+				"routes/channels.php"
+			],
+			[
+				"commisio",
+				"resources/js/app/components/commission/Commission.js"
+			],
+			[
+				"Commission",
+				"app/Http/Controllers/API/v1/CommissionController.php"
+			],
+			[
+				"User",
+				"app/User.php"
+			],
+			[
+				"commisionC",
+				"app/Http/Controllers/API/v1/CommissionController.php"
+			],
+			[
+				"CommissionC",
+				"app/Http/Controllers/API/v1/CommissionController.php"
+			],
+			[
+				"UserL",
+				"app/Models/UserLicense.php"
+			],
+			[
+				"LicenseController",
+				"app/Http/Controllers/API/v1/LicenseController.php"
+			],
+			[
+				"Licenses.js",
+				"resources/js/app/components/license/License.js"
+			],
+			[
+				"producC",
+				"app/Http/Controllers/API/v1/ProductController.php"
+			],
+			[
+				"routes",
+				"resources/js/routes/routes.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 312.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
